@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51a5452b-9613-4eb4-9646-d914b7d80694" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5Oqga4MFVC4iUdwnUhvlgcr0q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mariana.sandoval\Downloads\AmazonJava\src\main\java" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51a5452b-9613-4eb4-9646-d914b7d80694" name="Default Changelist" comment="" />
+      <created>1580332680983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580332680983</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="23" key="#Project_Structure" timestamp="1580495590297">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1580495590297" />
+    <state x="596" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580495655453">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="596" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580495655453" />
+    <state x="720" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580411272116">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="720" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580411272116" />
+    <state x="455" y="0" width="606" height="728" key="find.popup" timestamp="1580411442417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1580411442417" />
+    <state x="662" y="166" key="run.anything.popup" timestamp="1580490037369">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="662" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580490037369" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580491469333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580491469333" />
+  </component>
+</project>
